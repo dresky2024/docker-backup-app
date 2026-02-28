@@ -1,0 +1,5 @@
+services:
+  backup-job:
+    image: my-backup-app
+    volumes:
+      - .:/root/project/data
