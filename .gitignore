@@ -2,3 +2,4 @@ backup/
 *.txt
 *.yml
 !docker-compose.yml
+!.github/workflows/*.yml
